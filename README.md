@@ -1,10 +1,10 @@
-## Hi there! 👋 I'm [Your Name]
+## Hi there! 👋 I'm Muhamad Riyan Firdaus
 
 I'm a passionate **Frontend Developer** who loves building interactive and dynamic web applications. I enjoy working with modern web technologies and continuously learning new things to enhance my skills.
 
 ### 🚀 Skills & Technologies
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
-- **Backend:** Laravel, Node.js, Firebase
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js,
+- **Backend:** Laravel, Node.js, Firebase, PHP, Laravel
 - **Database:** MySQL, Firestore
 - **Version Control:** Git, GitHub
 - **Others:** REST API, Tailwind CSS, Styled-Components, Web Scraping
