@@ -8,36 +8,25 @@
   <tr>
     <td><b>🌐 Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs">
     </td>
   </tr>
   <tr>
     <td><b>⚙️ Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+      <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,firebase">
     </td>
   </tr>
   <tr>
     <td><b>🗄️ Database</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=black">
+      <img src="https://skillicons.dev/icons?i=mysql,firebase">
     </td>
   </tr>
   <tr>
     <td><b>🛠️ Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Web-Scraping-green?style=for-the-badge">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode">
     </td>
   </tr>
 </table>  
@@ -66,31 +55,18 @@
       A web-based comic reader fetching data from GitHub.
     </td>
   </tr>
-  <tr>
-    <td>
-      🔹 <b><a href="https://github.com/ryanngab/portfolio">Portfolio Website</a></b><br>
-      Personal portfolio website built with Next.js.
-    </td>
-    <td>
-      🔹 <b><a href="https://github.com/ryanngab/project4">Project 4</a></b><br>
-      Another cool project coming soon!
-    </td>
-  </tr>
 </table>  
 
 ---
 
+## 🌟 **Live Stats**
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanngab&theme=radical)](https://git.io/streak-stats)  
+
+---
+
 ## 📫 **Connect with Me**  
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ryanngab"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-    </td>
-    <td>
-      <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white"></a>
-    </td>
-    <td>
-      <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    </td>
-  </tr>
-</table>  
+<p align="center">
+  <a href="https://github.com/ryanngab"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
